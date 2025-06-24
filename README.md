@@ -40,7 +40,7 @@ This is my submission for **Task 2** of the 45-Day Web Development Internship wi
 
 ## 📸 Screenshot
 
-![Webpage Preview](https://raw.githubusercontent.com/aniraja/task-2-responsive-form-todo/main/screenshot.png)
+![Webpage Preview](https://github.com/aniraja/task-2-responsive-form-todo/blob/main/ApexPlanet_task2.jpg)
 
 ---
 
